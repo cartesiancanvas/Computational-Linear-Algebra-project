@@ -1,4 +1,4 @@
-# Computational-Linear-Algebra-project
+# Computational-Linear-Algebra-Course project
 Arnoldi Iteration: Krylov Subspaces, GMRES and Ritz Value Approximation
 This report studies the Arnoldi iteration and its connection
 with Krylov subspaces, eigenvalue approximation and the
